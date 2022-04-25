@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consultation-client-public/static/css/main.7dbf2ac0.css",
+    "main.js": "/consultation-client-public/static/js/main.fcfe2978.js",
+    "index.html": "/consultation-client-public/index.html",
+    "main.7dbf2ac0.css.map": "/consultation-client-public/static/css/main.7dbf2ac0.css.map",
+    "main.fcfe2978.js.map": "/consultation-client-public/static/js/main.fcfe2978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbf2ac0.css",
+    "static/js/main.fcfe2978.js"
+  ]
+}
