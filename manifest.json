@@ -1,6 +1,6 @@
 {
-  "short_name": "骨科看診分流APP",
-  "name": "骨科看診分流APP",
+  "short_name": "consultation client",
+  "name": "骨科看診分流APP 病患介面",
   "icons": [
     {
       "src": "favicon.ico",
